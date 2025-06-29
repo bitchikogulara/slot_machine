@@ -1,1 +1,2 @@
 # slot_machine
+This Python script implements a simple slot machine game. The player deposits an amount of money, selects the number of lines to bet on (1–3), and places a bet within a specified range. The machine then spins and displays a 3x3 grid of symbols (A, B, C, D), randomly selected based on predefined frequency. The script checks for winning lines (horizontal matches), calculates winnings based on symbol values, and updates the player's balance accordingly. The game continues until the player chooses to quit by entering 'q'.
